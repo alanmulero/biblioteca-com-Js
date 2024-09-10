@@ -1,6 +1,7 @@
 import fs from 'fs';
 import {trataErros} from "./erros/funcoesErros.js";
 import {contaPalavras}  from "./index.js";
+import {montaSaidaArquivo}  from "./helpers.js";
 
 const caminhoArquivo = process.argv;
 const link = caminhoArquivo[2];
@@ -20,7 +21,7 @@ fs.readFile(link
 //Usando async & await:
 async function criaESalvaArquivo(listaPalavras, caminho) {
     const arquivoNovo = `${caminho}/resultado.txt`;
-    const textoPalavra = JSON.stringify(listaPalavras);
+    const textoPalavra = montaSaidaArquivo(listaPalavras);
     try {
         await fs.promises.writeFile(arquivoNovo, textoPalavra);
         console.log('Arquivo criado.')

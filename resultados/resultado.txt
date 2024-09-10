@@ -1,1 +1,41 @@
-[{"httpsdevelopermozillaorgptbrdocslearngettingstartedwiththewebhowthewebworks\r":1},{},{"como":1,"web":1,"funciona\r":1},{},{"como":1,"web":1,"funciona":1,"oferece":1,"uma":2,"visão":1,"simplificada":1,"que":1,"acontece":1,"quando":1,"você":1,"página":1,"navegador":1,"seu":1,"computador":1,"telefone\r":1},{},{"essa":1,"teoria":1,"não":1,"essencial":1,"para":1,"escrever":1,"códigos":1,"curto":1,"prazo":1,"mas":1,"pouco":1,"tempo":1,"você":1,"vai":1,"beneficiar":1,"entender":1,"que":1,"está":1,"acontecendo":1,"segundo":1,"plano\r":1},{"clientes":1,"servidores\r":1},{},{"computadores":1,"conectados":1,"web":1,"são":1,"chamados":1,"clientes":1,"servidores":1,"diagrama":1,"simplificado":1,"como":1,"eles":1,"interagem":1,"pode":1,"ter":1,"essa":1,"aparência\r":1},{},{"clientes":1,"são":1,"típicos":1,"dispositivos":2,"conectados":1,"internet":1,"dos":1,"usuários":1,"web":2,"por":1,"exemplo":1,"seu":3,"computador":1,"conectado":2,"wifi":1,"telefone":1,"sua":1,"rede":1,"móvel":1,"programas":1,"acesso":1,"disponíveis":1,"nesses":1,"geralmente":1,"navegador":1,"como":1,"firefox":1,"chrome\r":1},{},{"servidores":1,"são":1,"computadores":1,"que":1,"armazenam":1,"páginas":1,"sites":1,"aplicativos":1,"quando":1,"dispositivo":1,"cliente":2,"quer":1,"acessar":1,"uma":2,"página":1,"cópia":1,"dela":1,"baixada":1,"servidor":1,"para":2,"máquina":1,"ser":1,"apresentada":1,"navegador":1,"web":1,"usuário\r":1}]
+Palavras duplicadas no parágrafo 5 : que, você, tenha 
+Palavras duplicadas no parágrafo 16 : que, estão 
+Palavras duplicadas no parágrafo 18 : que 
+Palavras duplicadas no parágrafo 20 : kanban 
+Palavras duplicadas no parágrafo 25 : scrum, por, quadro, que, alguns 
+Palavras duplicadas no parágrafo 28 : sistema, para 
+Palavras duplicadas no parágrafo 32 : modelo, kanban, para, desenvolvimento, software, pensamento, com, método 
+Palavras duplicadas no parágrafo 36 : anderson, método, kanban, com, palavra, “k”, dos 
+Palavras duplicadas no parágrafo 38 : kanban, como, método, que, forma, framework, implementação 
+Palavras duplicadas no parágrafo 40 : uma, metodologia, método 
+Palavras duplicadas no parágrafo 44 : kanban, que, entrega, valor 
+Palavras duplicadas no parágrafo 46 : uma 
+Palavras duplicadas no parágrafo 49 : kanban, características, para 
+Palavras duplicadas no parágrafo 51 : trabalho 
+Palavras duplicadas no parágrafo 53 : tempo, preparação 
+Palavras duplicadas no parágrafo 55 : layout, máquinas, trabalho, reduzir 
+Palavras duplicadas no parágrafo 57 : padronização 
+Palavras duplicadas no parágrafo 59 : por, kanban 
+Palavras duplicadas no parágrafo 61 : para 
+Palavras duplicadas no parágrafo 64 : kanban 
+Palavras duplicadas no parágrafo 66 : produção, etapas, que, etapa 
+Palavras duplicadas no parágrafo 68 : kanban, para, material 
+Palavras duplicadas no parágrafo 70 : kanban, produção 
+Palavras duplicadas no parágrafo 73 : uma 
+Palavras duplicadas no parágrafo 86 : controle, sistema 
+Palavras duplicadas no parágrafo 89 : vantagens 
+Palavras duplicadas no parágrafo 91 : trabalho 
+Palavras duplicadas no parágrafo 93 : dinamismo, entre, pessoas, trabalho, equipe 
+Palavras duplicadas no parágrafo 95 : ambiente, colaboração, trabalho, todas 
+Palavras duplicadas no parágrafo 97 : autonomia 
+Palavras duplicadas no parágrafo 99 : forma, problemas 
+Palavras duplicadas no parágrafo 101 : trabalho, esforços, com 
+Palavras duplicadas no parágrafo 103 : quais, estão, que, sejam 
+Palavras duplicadas no parágrafo 105 : kanban 
+Palavras duplicadas no parágrafo 108 : método, que, “comece, pelo, você 
+Palavras duplicadas no parágrafo 112 : lean 
+Palavras duplicadas no parágrafo 114 : pensamento, ágil 
+Palavras duplicadas no parágrafo 116 : sistema, puxado, oposição, para 
+Palavras duplicadas no parágrafo 118 : seu, valor, para 
+Palavras duplicadas no parágrafo 123 : que, produto, valor, carro, por, deslocamento 
+Palavras duplicadas no parágrafo 126 : que, valor, desperdício, parte 
