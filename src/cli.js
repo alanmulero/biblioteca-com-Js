@@ -4,6 +4,7 @@ import {trataErros} from "./erros/funcoesErros.js";
 import {contaPalavras}  from "./index.js";
 import {montaSaidaArquivo}  from "./helpers.js";
 import {Command} from 'commander';
+import chalk from 'chalk';
 
 
 
@@ -27,7 +28,7 @@ program
         const caminhoDestino = path.resolve(destino);
         try{
             processaArquivo(caminhoTexto,caminhoDestino);
-            console.log('Texto processado com sucesso');
+            console.log(chalk.blue('Texto processado com sucesso')); // Usando biblioteca chalk para colorir terminal
             
 
         }catch(erro){
